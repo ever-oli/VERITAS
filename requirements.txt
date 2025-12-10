@@ -1,0 +1,20 @@
+# Audio Processing
+demucs>=4.0.0
+basic-pitch>=0.2.0
+librosa>=0.10.0
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+soundfile>=0.12.0
